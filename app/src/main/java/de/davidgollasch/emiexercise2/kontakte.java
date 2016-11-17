@@ -9,7 +9,7 @@ import android.content.Intent;
 
 public class  kontakte implements java.io.Serializable {
 
-    public String title;
+    public String title;//hi
     public String vorname;
     public String nachname;
     public String straße;
